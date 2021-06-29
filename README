@@ -2,6 +2,19 @@
 
     ################################################## rpi4 opkg repos
 
+     NOTE: due to storage constraints some packages are excluded
+
+           notably on master this effects luci/*i18n* aka
+           translations
+
+           -you can attempt adding the official repo or running
+
+            $> rpi4-official-opkg.sh install ABC
+
+
+           (or you can try the 'release' build if it is
+            available aka 21.02.0 etc.)
+
 
 
 

@@ -1,0 +1,5 @@
+src-git-full base https://git.openwrt.org/openwrt/openwrt.git^90338370d1
+src-git-full packages https://git.openwrt.org/feed/packages.git^a83dcc11f
+src-git-full luci https://git.openwrt.org/project/luci.git^2f0ffd9d82
+src-git-full routing https://git.openwrt.org/feed/routing.git^b81e9c8
+src-git-full telephony https://git.openwrt.org/feed/telephony.git^20abe8c
